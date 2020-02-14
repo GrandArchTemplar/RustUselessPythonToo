@@ -1,0 +1,13 @@
+The a become 302
+Ascension to the fact requires n
+so
+Your wisdom is n == 1
+Choose wisely between
+Invoke: return a
+and
+Invoke: return n * fact(n - 1)
+Slow
+Descent
+The num become int(input(""))
+Invoke: print(fact(num))
+So the end
